@@ -17,7 +17,7 @@ public class Layout_Managers_one {
 
 
         BorderLayout borderLayout = new BorderLayout();
-
+    
         panel.setLayout(borderLayout);
         Button b1 = new Button("b1");
         Button b2 = new Button("b2");
@@ -30,6 +30,8 @@ public class Layout_Managers_one {
         panel.add(b3,borderLayout.EAST);
         panel.add(b4,borderLayout.WEST);
         panel.add(b5,borderLayout.CENTER);
+
+
 
 
 

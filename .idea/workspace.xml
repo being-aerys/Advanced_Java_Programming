@@ -7,8 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92908145-a268-4a60-a4cb-11030bcf39fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Layout_Managers_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Swing_Form_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/List_in_java_using_swing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Practice_jframe_extension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Progress_bar_in_java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Layout_Managers_one.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Layout_Managers_one.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/hello_world_package/Layout_Managers_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Layout_Managers_one.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,33 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Inheritance_better_demo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Inheritance_better_demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Inheritance_demo_using_house.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Inheritance_demo_using_house.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExceptionHandlingOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/ExceptionHandlingOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Command_line_argument.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Command_line_argument.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="File_IO_one.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="File_IO_one.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/File_IO_one.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="195">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -95,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Layout_Managers_one.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Layout_Managers_one.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Layout_Managers_one.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="495">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,11 +85,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hello_world.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Hello_world.java">
+      <file leaf-file-name="Practice_jframe_extension.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Practice_jframe_extension.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Java_Swing_Form_example.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Java_Swing_Form_example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List_in_java_using_swing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/List_in_java_using_swing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1776#1777#0" expanded="true" />
+                <element signature="e#1822#1823#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Progress_bar_in_java.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Progress_bar_in_java.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#1244#1245#0" expanded="true" />
+                <element signature="e#1313#1314#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,6 +166,11 @@
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Exception_handling_throws.java" />
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/File_IO_one.java" />
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Layout_Managers_one.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/practice_jframe_extension.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Practice_jframe_extension.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Swing_Form_example.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/List_in_java_using_swing.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Progress_bar_in_java.java" />
       </list>
     </option>
   </component>
@@ -205,42 +230,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Layout_Managers_one">
-    <configuration name="Exception_handling_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Exception_handling_2" />
-      <module name="Java_revise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.hello_world_package.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Exception_handling_throw_explicit_exception_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Exception_handling_throw_explicit_exception_easy" />
-      <module name="Java_revise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.hello_world_package.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Exception_handling_throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Exception_handling_throws" />
-      <module name="Java_revise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.hello_world_package.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="File_IO_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.File_IO_one" />
+  <component name="RunManager" selected="Application.Progress_bar_in_java">
+    <configuration name="Java_Swing_Form_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Java_Swing_Form_example" />
       <module name="Java_revise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -252,6 +244,39 @@
     </configuration>
     <configuration name="Layout_Managers_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Layout_Managers_one" />
+      <module name="Java_revise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello_world_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="List_in_java_using_swing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.List_in_java_using_swing" />
+      <module name="Java_revise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello_world_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Practice_jframe_extension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Practice_jframe_extension" />
+      <module name="Java_revise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello_world_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Progress_bar_in_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Progress_bar_in_java" />
       <module name="Java_revise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -314,19 +339,19 @@
     </configuration>
     <list>
       <item itemvalue="JAR Application.Unnamed" />
-      <item itemvalue="Application.Exception_handling_2" />
-      <item itemvalue="Application.Exception_handling_throw_explicit_exception_easy" />
-      <item itemvalue="Application.Exception_handling_throws" />
-      <item itemvalue="Application.File_IO_one" />
       <item itemvalue="Application.Layout_Managers_one" />
+      <item itemvalue="Application.Practice_jframe_extension" />
+      <item itemvalue="Application.Java_Swing_Form_example" />
+      <item itemvalue="Application.List_in_java_using_swing" />
+      <item itemvalue="Application.Progress_bar_in_java" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Progress_bar_in_java" />
+        <item itemvalue="Application.List_in_java_using_swing" />
+        <item itemvalue="Application.Java_Swing_Form_example" />
+        <item itemvalue="Application.Practice_jframe_extension" />
         <item itemvalue="Application.Layout_Managers_one" />
-        <item itemvalue="Application.File_IO_one" />
-        <item itemvalue="Application.Exception_handling_throws" />
-        <item itemvalue="Application.Exception_handling_throw_explicit_exception_easy" />
-        <item itemvalue="Application.Exception_handling_2" />
       </list>
     </recent_temporary>
   </component>
@@ -354,25 +379,25 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.060755335" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23572475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23572475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32840723" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32882884" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -384,34 +409,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/ExceptionHandlingOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="94" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Command_line_argument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Exception_handling_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Exception_handling_throw_explicit_exception_easy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Exception_handling_throws.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -730,20 +727,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/File_IO_one.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Java_Swing_Form_example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="330">
+          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Progress_bar_in_java.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1313#1314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Practice_jframe_extension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/List_in_java_using_swing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Layout_Managers_one.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/File_IO_one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
