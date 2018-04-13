@@ -7,11 +7,11 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-public class Set_Action_Command_For_JButton extends JFrame{
+public class Set_Action_Command_For_JButton {
 
     public static void main(String[] args) {
 
-        JFrame frame = new Set_Action_Command_For_JButton();
+        JFrame frame = new JFrame();
 
         //Display the window.
 
