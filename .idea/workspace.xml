@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92908145-a268-4a60-a4cb-11030bcf39fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Database_example_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_revise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_revise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Set_Action_Command_For_JButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Set_Action_Command_For_JButton.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exception_handling_throws.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Exception_handling_throws.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="119" selection-start-line="8" selection-start-column="119" selection-end-line="8" selection-end-column="119" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="File_IO_one.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/File_IO_one.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,14 +57,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Database_connection_1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Database_connection_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="31" column="68" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+            <state relative-caret-position="450">
+              <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database_connection_2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database_example_3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Database_example_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -96,18 +104,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Java_Swing_Form_example.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Java_Swing_Form_example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -177,6 +173,8 @@
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Action_Command_For_JButton.java" />
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Set_Action_Command_For_JButton.java" />
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_1.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Database_example_3.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_2.java" />
       </list>
     </option>
   </component>
@@ -237,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Database_connection_1">
+  <component name="RunManager" selected="Application.Database_connection_2">
     <configuration name="Database_connection_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Database_connection_1" />
       <module name="Java_revise" />
@@ -249,30 +247,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Database_connection_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Database_connection_2" />
+      <module name="Java_revise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello_world_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Database_example_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Database_example_3" />
+      <module name="Java_revise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello_world_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Event_handling_in_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Event_handling_in_java" />
-      <module name="Java_revise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.hello_world_package.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="List_in_java_using_swing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.List_in_java_using_swing" />
-      <module name="Java_revise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.hello_world_package.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Progress_bar_in_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Progress_bar_in_java" />
       <module name="Java_revise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -346,19 +344,19 @@
     </configuration>
     <list>
       <item itemvalue="JAR Application.Unnamed" />
-      <item itemvalue="Application.List_in_java_using_swing" />
-      <item itemvalue="Application.Progress_bar_in_java" />
       <item itemvalue="Application.Event_handling_in_java" />
       <item itemvalue="Application.Set_Action_Command_For_JButton" />
       <item itemvalue="Application.Database_connection_1" />
+      <item itemvalue="Application.Database_connection_2" />
+      <item itemvalue="Application.Database_example_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Database_connection_2" />
+        <item itemvalue="Application.Database_example_3" />
         <item itemvalue="Application.Database_connection_1" />
         <item itemvalue="Application.Set_Action_Command_For_JButton" />
         <item itemvalue="Application.Event_handling_in_java" />
-        <item itemvalue="Application.Progress_bar_in_java" />
-        <item itemvalue="Application.List_in_java_using_swing" />
       </list>
     </recent_temporary>
   </component>
@@ -381,18 +379,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32840723" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20032841" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17569786" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23572475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.081259154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -412,24 +410,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_2.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Method_overloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Inheritance_better_demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Inheritance_demo_using_house.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -791,11 +783,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="31" column="68" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+        <state relative-caret-position="450">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Database_example_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Database_connection_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -818,7 +824,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
