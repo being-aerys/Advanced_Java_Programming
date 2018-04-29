@@ -17,17 +17,17 @@ public class Database_connection_2 {
 
 
             Statement statement = connection.createStatement();
-            String creation_string = "create table if not exists student_details(id integer not null, first_name varchar(30), last_name varchar(30), primary key (id))";
+            String creation_string = "create table if not exists student_details_demo (id integer not null, first_name varchar(30), last_name varchar(30), primary key (id))";
             statement.executeUpdate(creation_string);
 
 
 
             //insert data
 
-            String insertion_string_1 = "insert into student_details " + " (id, first_name, last_name)"
+            String insertion_string_1 = "insert into student_details_demo " + " (id, first_name, last_name)"
                     + " values ('1','Aashish', 'Adhikari')";
 
-            String insertion_string_2 = "insert into student_details " + " (id, first_name, last_name)"
+            String insertion_string_2 = "insert into student_details_demo " + " (id, first_name, last_name)"
                    + " values ('2','Abinash', 'Neupane')";
 
              statement.executeUpdate(insertion_string_1);
@@ -35,7 +35,7 @@ public class Database_connection_2 {
 
              //see the result set
 
-             ResultSet resultSet = statement.executeQuery("select * from student_details");
+             ResultSet resultSet = statement.executeQuery("select * from student_details_demo");
 
 
              while(resultSet.next()){
