@@ -16,8 +16,12 @@ public class Network_Programming_three {
             //creating a url, the url link denotes a php file that has some string value to be returned to this program when invoked
             URL url = new URL("http://adhikariaashish.com.np/Java_Network_Connection_demo.php");
 
-            //connecting to a url
-            HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
+
+            //If you call method openConnection() for a URL it returns an URLConnection object.
+            URLConnection urlConnection = url.openConnection();
+
+            //Since we are using a url whose protocol is HTTP, we need to typecast this connection to HttpURLConnection first before operating
+            HttpURLConnection httpURLConnection = (HttpURLConnection) urlConnection;
 
             //Set the method for the URL request, one of: GET POST HEAD OPTIONS PUT DELETE TRACE are legal
             httpURLConnection.setRequestMethod("POST");
@@ -31,6 +35,8 @@ public class Network_Programming_three {
             //getOutputStrream() returns the output stream of the URL connection for writing to the resource
             OutputStream outputStream = httpURLConnection.getOutputStream();
             BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(outputStream, "UTF-8"));
+
+            //the string "Java_Program_Demo" is checked by the php file to decide whether to return the string value to this java program or not
             String post_data = URLEncoder.encode("type", "UTF-8") + "=" + URLEncoder.encode("Java_Program_Demo", "UTF-8");
             bufferedWriter.write(post_data);
             bufferedWriter.flush();
