@@ -11,7 +11,12 @@ public class Network_Programming_TCP_Client_Code {
 
 
     public static void main(String[] args) throws IOException {
-        Socket socket = new Socket("127.0.0.1",1500);
+        Socket socket = new Socket("127.0.0.1",1500);//first argument  is server's IP address
+        // second argument  is port number of the server to which our client program will send the client request depending upon the application level protocol
+        //  it is 80 for HTTP protocol and we are using HTTP here
+        //but lets use a different port here, 1500
+
+
 
         //Lets send a number to the server, double it there and then get that value back to the client and print here
         int to_send_to_Server, to_receive_from_the_server;
