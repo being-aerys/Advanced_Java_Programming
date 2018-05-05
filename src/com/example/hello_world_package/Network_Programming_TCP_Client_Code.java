@@ -5,7 +5,7 @@ import java.io.PrintStream;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Network_Programming_Client_Code {
+public class Network_Programming_TCP_Client_Code {
 
     //RUN THE SERVER FIRST
 

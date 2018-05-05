@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Network_Programming_Server_Code {
+public class Network_Programming_TCP_Server_Code {
     public static void main(String[] args) throws IOException {
         ServerSocket serverSocket = new ServerSocket(1500);
         Socket socket = serverSocket.accept();
