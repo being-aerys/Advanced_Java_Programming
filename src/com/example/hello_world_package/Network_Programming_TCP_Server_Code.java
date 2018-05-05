@@ -16,7 +16,7 @@ public class Network_Programming_TCP_Server_Code {
         System.out.println("\n The port number used for client is "+socket.getPort());//Returns the client machine's port number to which this socket is connected.
 
         //You might think how does the server know which port to connect to on the client
-        //Client's port number is the part of the TCP header in the ip packet. So the server finds out because the client tells it through its TCP header.
+        //Client's port number is part of the TCP header in the ip packet. So the server finds out because the client tells it through its TCP header.
 
         // lets set an inputstream for this socket
         Scanner scanner = new Scanner(socket.getInputStream());

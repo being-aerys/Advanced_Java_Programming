@@ -20,7 +20,7 @@ public class Network_Programming_TCP_Client_Code {
 
         //Lets send a number to the server, double it there and then get that value back to the client and print here
         int to_send_to_Server, to_receive_from_the_server;
-        System.out.println("Enter a number to send to the server\n");
+        System.out.println("Enter a number to send to the server.\n");
         Scanner scanner = new Scanner(System.in);
         to_send_to_Server = scanner.nextInt();
 
