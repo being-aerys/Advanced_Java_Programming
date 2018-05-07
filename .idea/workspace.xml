@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92908145-a268-4a60-a4cb-11030bcf39fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_Employee_Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_setting_getting_employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -396,7 +394,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5270936" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29720855" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
