@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92908145-a268-4a60-a4cb-11030bcf39fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_Sending_Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_Employee_Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_setting_getting_employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_revise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_revise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Network_Programming_TCP_Client_Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Network_Programming_TCP_Client_Code.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Network_Programming_TCP_Server_Code.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_revise/com/example/hello_world_package/Network_Programming_TCP_Server_Code.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,14 +84,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Network_Programming_Sending_Email.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Network_Programming_Sending_Email.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_Sending_Email.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="225">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Java_Bean_Employee_Bean.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_Employee_Bean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Java_Bean_setting_getting_employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_setting_getting_employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -166,6 +182,10 @@
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_TCP_Server_Code.java" />
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_TCP_Client_Code.java" />
         <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_Sending_Email.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_Without_Gmail_Server.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_email_2.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_Employee_Bean.java" />
+        <option value="$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_setting_getting_employee.java" />
       </list>
     </option>
   </component>
@@ -226,7 +246,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Network_Programming_Sending_Email">
+  <component name="RunManager" selected="Application.Java_Bean_setting_getting_employee">
+    <configuration name="Java_Bean_setting_getting_employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Java_Bean_setting_getting_employee" />
+      <module name="Java_revise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hello_world_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Network_Programming_Sending_Email" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Network_Programming_Sending_Email" />
       <module name="Java_revise" />
@@ -260,24 +291,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Network_Programming_UDP_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Network_Programming_UDP_Client" />
+    <configuration name="Network_Programming_email_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Network_Programming_email_2" />
       <module name="Java_revise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.hello_world_package.JavaEmail" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Network_Programming_UDP_Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hello_world_package.Network_Programming_UDP_Server" />
-      <module name="Java_revise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.hello_world_package.JavaEmail" />
+          <option name="PATTERN" value="com.example.hello_world_package.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,17 +357,17 @@
       <item itemvalue="JAR Application.Unnamed" />
       <item itemvalue="Application.Network_Programming_TCP_Server_Code" />
       <item itemvalue="Application.Network_Programming_TCP_Client_Code" />
-      <item itemvalue="Application.Network_Programming_UDP_Client" />
-      <item itemvalue="Application.Network_Programming_UDP_Server" />
       <item itemvalue="Application.Network_Programming_Sending_Email" />
+      <item itemvalue="Application.Network_Programming_email_2" />
+      <item itemvalue="Application.Java_Bean_setting_getting_employee" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java_Bean_setting_getting_employee" />
+        <item itemvalue="Application.Network_Programming_email_2" />
         <item itemvalue="Application.Network_Programming_Sending_Email" />
         <item itemvalue="Application.Network_Programming_TCP_Client_Code" />
         <item itemvalue="Application.Network_Programming_TCP_Server_Code" />
-        <item itemvalue="Application.Network_Programming_UDP_Client" />
-        <item itemvalue="Application.Network_Programming_UDP_Server" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +396,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3218391" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5270936" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -441,27 +461,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Hello_world.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Exception_handling_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Method_overloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Inheritance_better_demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -790,13 +789,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_email_2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Network_Programming_Sending_Email.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="225">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_setting_getting_employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="77" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hello_world_package/Java_Bean_Employee_Bean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
     </entry>
