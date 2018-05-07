@@ -16,5 +16,25 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/added_library/javax.mail-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/added_library/jaf-1_1_1.zip!/jaf-1.1.1/docs/javadocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/added_library/jaf-1_1_1.zip!/jaf-1.1.1/demo" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
